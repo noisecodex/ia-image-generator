@@ -10,3 +10,6 @@ __pycache__/
 
 # Ignore .notes file
 .notes
+
+# Ignore environment variables
+.env
